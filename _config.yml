@@ -1,6 +1,6 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
+title: "JK`s Blog"
+email: skekdnzm1994@gmail.com
+timezone: Asia/Seoul
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -8,8 +8,8 @@ favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
 disqus: 'demowebsite'
-locale: en_us
-lang: en_us
+locale: ko_kr
+lang: ko_kr
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -53,4 +53,4 @@ plugins:
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-seo-tag
-- jekyll-archives
+- Jekyll-archives
