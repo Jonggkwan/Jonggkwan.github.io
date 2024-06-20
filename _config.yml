@@ -1,7 +1,7 @@
 title: "JK`s Blog"
 email: skekdnzm1994@gmail.com
 timezone: Asia/Seoul
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -53,4 +53,4 @@ plugins:
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-seo-tag
-- Jekyll-archives
+- jekyll-archives
